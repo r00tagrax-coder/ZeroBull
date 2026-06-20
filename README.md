@@ -1,4 +1,7 @@
 # ZeroBull
+
+
+
 ![Static Badge](https://img.shields.io/badge/ZeroBull-white)
 ![Static Badge](https://img.shields.io/badge/Android-blue)
 ![Static Badge](https://img.shields.io/badge/OpenSource-black)
