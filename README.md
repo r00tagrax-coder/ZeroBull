@@ -1,3 +1,3 @@
 # ZeroBull
-https://img.shields.io/badge/ZeroBull
+![Static Badge](https://img.shields.io/badge/ZeroBull)
 
